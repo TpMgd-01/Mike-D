@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TpMgd-01
+- 👋 Hi, I’m @Mike D
 - 👀 I’m interested in developing on the salesforce.com platform
 - 🌱 I’m currently learning LWC components using Javascript and the LWC platform.
 - 💞️ I’m looking to collaborate on ...
